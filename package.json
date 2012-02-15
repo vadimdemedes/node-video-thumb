@@ -6,5 +6,5 @@
   , "author": "Vadim Demedes <sbioko@gmail.com>"
   , "dependencies": {}
   , "main": "index"
-  , "engines": { "node": "0.4.x" }
+  , "engines": { "node": ">= 0.4" }
 }
