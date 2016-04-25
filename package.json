@@ -1,6 +1,6 @@
 {
     "name": "video-thumb"
-  , "version": "0.0.2"
+  , "version": "0.0.3"
   , "description": "Extract snapshots from video at a given time. Requires ffmpeg."
   , "keywords": ["ffmpeg", "video", "thumb", "thumbnail", "video thumbnail"]
   , "author": "Vadim Demedes <sbioko@gmail.com>"
